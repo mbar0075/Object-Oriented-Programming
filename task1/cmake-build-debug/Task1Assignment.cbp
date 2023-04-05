@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Task1Assignment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task1Assignment">
+				<Option output="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Task1Assignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task1Assignment"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Task1Assignment/fast">
+				<Option output="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Task1Assignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/x86_64-w64-mingw32"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include/c++/10.3.0/backward"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../include"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/include-fixed"/>
+					<Add directory="C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/10.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Task1Assignment/fast"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/msys64/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Documents/Github/CPS2004-Assignment/task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/Army.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/Barracks.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/Buildings.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/Cell.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/GameMapManager.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/InputValidation.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/MainRunner.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/ResourceGenerator.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/Resources.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/Troops.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/Village.cpp">
+			<Option target="Task1Assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/User/Documents/Github/CPS2004-Assignment/task1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Documents/Github/CPS2004-Assignment/task1/Army.cpp
+headerFile.h
+C:/Users/User/Documents/Github/CPS2004-Assignment/task1/headerFile.h
+
+C:/Users/User/Documents/Github/CPS2004-Assignment/task1/headerFile.h
+iostream
+-
+string
+-
+memory
+-
+list
+-
+ctime
+-
+
