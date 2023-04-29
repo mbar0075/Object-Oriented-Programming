@@ -1,13 +1,13 @@
 # CPS2004 - Object Oriented Programming Assignment
 
 # Author
-Matthias Bartolo 0436103L
+**Matthias Bartolo 0436103L**
 
 ## Deliverables:
 The repository includes:<br />
-1.task1: Directory which contains all the files for Task 1 (Village War Game)<br />
-2.task2: Directory which contains all the files for Task 2 (Minesweeper)<br />
-3.report.pdf: Assignment Documentation/Report
+1.**task1:** Directory which contains all the files for Task 1 (Village War Game)<br />
+2.**task2:** Directory which contains all the files for Task 2 (Minesweeper)<br />
+3.**report.pdf:** Assignment Documentation/Report
 
 ## Compiling and Running:
 Firstly, to compile the program, in each directory, one needs to run the compile.sh shell script, in the command line.<br />
