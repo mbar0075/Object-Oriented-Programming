@@ -5,9 +5,9 @@
 
 ## Preview:
 <p align='center'>
-  <img src="https://github.com/mbar0075/Object-Oriented-Programming/assets/103250564/a7e4b05a-2aab-46da-a8fa-4abfe2ae1767" style="display: block; margin: 0 auto; width: 80%; height: auto;">
-  <img src="https://github.com/mbar0075/Object-Oriented-Programming/assets/103250564/c3d558f7-7c21-4e91-a575-4800ad814b50" style="display: block; margin: 0 auto; width: 40%; height: auto;">
-  <img src="https://github.com/mbar0075/Object-Oriented-Programming/assets/103250564/46beaaf1-4917-4781-8488-d4302702210e" style="display: block; margin: 0 auto; width: 38%; height: auto;">
+  <img src="https://github.com/mbar0075/Object-Oriented-Programming/assets/103250564/2722ff5c-4272-43fe-b7f3-c5ce3c2d81eb" style="display: block; margin: 0 auto; width: 80%; height: auto;">
+  <img src="https://github.com/mbar0075/Object-Oriented-Programming/assets/103250564/aa2a2572-45b7-4b86-af43-63f1b22a685e" style="display: block; margin: 0 auto; width: 40%; height: auto;">
+  <img src="https://github.com/mbar0075/Object-Oriented-Programming/assets/103250564/46beaaf1-4917-4781-8488-d4302702210e" style="display: block; margin: 0 auto; width: 40%; height: auto;">
 </p>
 
 ## Deliverables:
