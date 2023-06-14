@@ -11,7 +11,7 @@
 </p>
 
 ## Description of Task:
-The following section encompasses two distinct tasks: the Village War Game and Minesweeper. Each task presents a unique game concept and objective, providing engaging challenges for players.
+The programmed project encompasses two distinct tasks: a Village War Game and Minesweeper. Each task presents a unique game concept and objective, providing engaging challenges for players.
 
 ### **1. Village War Game (Turn-based Strategy)**
 In the Village War Game, players controlled villages that were scattered across a map. Each village had distinct properties, including its location on a 2D coordinate system, health status, and owner. The objective was to strategically manage resources and construct various buildings within the village. Certain buildings generated resources, while others were used for training troops. Different types of troops had unique resource costs and stats.
@@ -53,6 +53,10 @@ https://github.com/mbar0075/Object-Oriented-Programming/assets/103250564/d7932d4
 
 
 ## Minesweeper:
+
+
+https://github.com/mbar0075/Object-Oriented-Programming/assets/103250564/972565c6-dbb6-46f1-9c7a-9f81811b52a7
+
 
 
 ## Deliverables:
